@@ -45,7 +45,7 @@ Cybersecurity Specialist supporting **NCA and CST regulatory compliance**, with 
 
 | Project | Description | Status |
 |---|---|---|
-| [Enterprise Security Assessment](#) | Consultant-style vulnerability assessment with exec summary, risk matrix, remediation roadmap | 🚧 In progress |
+| [Enterprise Security Assessment](https://github.com/JoudAlhussain/enterprise-security-assessment) | Consultant-style vulnerability assessment with exec summary, risk matrix, remediation roadmap | ✅ Complete |
 | [Enterprise Risk Assessment](#) | Asset inventory, risk register, risk matrix, treatment plan | ⏳ Planned |
 | [Security Operations Lab](#) | Wazuh + Sysmon detection lab mapped to MITRE ATT&CK | ⏳ Planned |
 | [Cybersecurity Toolkit](#) | Reusable GRC, IAM, and Incident Response templates | ⏳ Planned |
