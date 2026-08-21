@@ -39,7 +39,6 @@ Cybersecurity Specialist supporting **NCA and CST regulatory compliance**, with 
 - Principles of Penetration Testing and Ethical Hacking — Tuwaiq Academy, 2026
 - Manage Security Risks — Google, 2025
 - Certified Associate in Project Management (CAPM) — PMI, 2025
-- *ISO/IEC 27005 Risk Manager — in progress*
 
 ### 🚀 Signature Projects
 
